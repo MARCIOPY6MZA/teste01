@@ -9,7 +9,7 @@ public class ProcetoClassTeste {
 		System.out.println("Meu primeiro programa em java do curso formação web");
 		System.out.println("Java é orientado a objeto");
 		System.out.println("Java é orientado a objeto");
-		System.out.println("Java é orientado a objeto");	
+		System.out.println("Java é oa objeto");	
 		System.out.println(" a oo");	
 		System.out.println(" obj");	
 		System.out.println("Java é orientado a objeto");	
